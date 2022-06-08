@@ -11,6 +11,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
+    "@types/node": "^17.0.41",
     "ccxt": "^1.85.69"
   }
 }
