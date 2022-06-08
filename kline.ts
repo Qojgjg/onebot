@@ -9,3 +9,6 @@ interface OHLCV {
   volume: number;
   confirmed: boolean;
 }
+
+export
+type KLine = OHLCV[];
